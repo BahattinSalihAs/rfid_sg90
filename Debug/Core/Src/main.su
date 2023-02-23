@@ -1,0 +1,5 @@
+../Core/Src/main.c:123:8:Servo_Angle	16	static
+../Core/Src/main.c:79:5:main	48	static
+../Core/Src/main.c:135:8:ana_erkan	16	static
+../Core/Src/main.c:303:6:SystemClock_Config	72	static
+../Core/Src/main.c:346:6:Error_Handler	4	static,ignoring_inline_asm
